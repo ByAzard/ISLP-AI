@@ -1,0 +1,21 @@
+{
+  "name": "ISLP AI - C5 B3",
+  "short_name": "ISLP AI",
+  "description": "Assistant de rédaction de PV - Polbruno",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050914",
+  "theme_color": "#ff6b00",
+  "icons": [
+    {
+      "src": "Logo.JPG",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "Logo.JPG",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
